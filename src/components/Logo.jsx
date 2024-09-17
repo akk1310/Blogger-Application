@@ -3,7 +3,7 @@ import React from 'react'
 
 function Logo({width = '100px'}) {
   return (
-    <img className='mt-2 mx-auto' width={width} src="src/assets/logo.png" alt="Logo" />
+    <img className='mt-2 mx-auto' width={width} src="/logo1.png" alt="Logo" />
   )
 }
 
